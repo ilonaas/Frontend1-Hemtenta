@@ -1,0 +1,8 @@
+div{
+    width: 300px;
+    height: 200px;
+    background-color: blue;
+    right: 50px;
+    top: 100px;
+    position: fixed;   
+}
